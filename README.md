@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm karan joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanjoshi-kj&label=Profile%20views&color=0e75b6&style=flat" alt="karanjoshi-kj" /> </p>
 
@@ -35,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjoshi-kj&show_icons=true&locale=en" alt="karanjoshi-kj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanjoshi-kj&" alt="karanjoshi-kj" /></p>
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
+
