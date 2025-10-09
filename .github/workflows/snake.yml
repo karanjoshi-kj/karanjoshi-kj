@@ -1,10 +1,10 @@
-name: Generate Snake Game from Contributions
+name: Generate Snake
 
 on:
-  schedule: # Runs once a day
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual runs
-  push: # Runs on every push
+  schedule:
+    - cron: "0 0 * * *" # run once a day
+  workflow_dispatch:
+  push:
     branches:
       - main
 
@@ -14,16 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: karanjoshi-kj
           outputs: dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
