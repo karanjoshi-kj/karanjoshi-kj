@@ -36,5 +36,13 @@
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
 
-![3D Graph](./profile-3d-contrib/profile-green.svg)
+## 🧭 Contribution Journey
 
+<div align="center">
+
+<!-- 🌗 3D Graph for Light/Dark -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karanjoshi-kj/Karanjoshi-kj/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</picture>
+</div>
