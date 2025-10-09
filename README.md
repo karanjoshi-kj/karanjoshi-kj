@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kjkaranjoshi2006@gmail.com**
 
-- 📄 Know about my experiences [pursuing internship on wipro](pursuing internship on wipro)
+- 📄 Know about my experiences [pursuing internship on wipro]
 
 - ⚡ Fun fact **"code never lies , comments sometimes do 😉"**
 
