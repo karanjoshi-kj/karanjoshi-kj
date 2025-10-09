@@ -36,4 +36,3 @@
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
