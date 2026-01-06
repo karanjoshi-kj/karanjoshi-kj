@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **kjkaranjoshi2006@gmail.com**
 
-- 📄 Know about my experiences [pursuing internship on wipro]
-
 - ⚡ Fun fact **"code never lies , comments sometimes do 😉"**
 
 <h3 align="left">Connect with me:</h3>
