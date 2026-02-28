@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanjoshi-kj" alt="karanjoshi-kj" /></a> </p>
 
 
+
 - 🌱 I’m currently learning **web-tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karanjoshi-kj](https://github.com/karanjoshi-kj)
