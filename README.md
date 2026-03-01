@@ -8,7 +8,6 @@
 
 
 
-
 - 🌱 I’m currently learning **web-tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karanjoshi-kj](https://github.com/karanjoshi-kj)
