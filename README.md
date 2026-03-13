@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjoshi-kj&show_icons=true&locale=en" alt="karanjoshi-kj" /></p>
 
-
+<img src="https://streak-stats.demolab.com?user=karanjoshi&theme=tokyonight&hide_border=true"/>
 ![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
 
 ## 🧭 Contribution Journey
