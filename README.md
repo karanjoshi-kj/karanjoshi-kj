@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjoshi-kj&show_icons=true&locale=en" alt="karanjoshi-kj" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanjoshi-kj&" alt="karanjoshi-kj" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanjoshi-kj&" alt="karanjoshi-kj" /></p> 
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/output/snake.svg)
 
