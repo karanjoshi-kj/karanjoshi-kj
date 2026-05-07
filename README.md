@@ -37,6 +37,9 @@
 <img align="right" height="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 - 🌱 Currently learning **Web Development**
+- 🎓 B.Tech Student
+- 🧠 Currently improving DSA + Development skills
+- 🚀 Building cool web projects
 - 💻 Love building projects and solving coding problems
 - 👨‍💻 All my projects are available on GitHub
 - 💬 Ask me about **C, C++, Java, Python, HTML, CSS**
