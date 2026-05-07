@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:kjkaranjoshi2006@gmail.com">
+<a href="kjkaranjoshi2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
