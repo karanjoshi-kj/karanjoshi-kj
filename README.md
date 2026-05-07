@@ -1,7 +1,7 @@
 <!-- ======================= HEADER IMAGE ======================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/main/ChatGPT%20Image%20May%207,%202026,%2010_39_44%20PM.png" alt="coding setup" width="100%"/>
+  <img src="https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/main/coding-setup.png" alt="coding setup" width="100%"/>
 </p>
 
 <!-- ======================= HEADER ======================= -->
