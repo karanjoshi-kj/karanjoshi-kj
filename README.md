@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/karan-joshi" target="_blank">
+<a href="https://www.linkedin.com/feed/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
