@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/karanjoshi-kj/karanjoshi-kj/main/coding-setup.png" alt="coding setup" width="100%"/>
 </p>
 
-<!-- ====================== HEADER ======================= -->
+<!-- ===================== HEADER ======================= -->
 
 <h1 align="center">Hey 👋, I'm Karan Joshi</h1>
 
