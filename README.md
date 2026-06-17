@@ -98,15 +98,15 @@
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://leetcode.com/u/Karanjoshi_25/"/>
 </a>
 
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://codeforces.com/profile/karan_cse"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://www.geeksforgeeks.org/profile/kjkaranjo0nmp"/>
 </a>
 
 </p>
